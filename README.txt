@@ -28,4 +28,20 @@ repeat line 26 until the orange is gone
 orange gone
 
 Xbox One Start Up Algorithm
-Sit down in my chair and either slide hand across power button or press and hold the guide button the a controller. Turn on T.V. and insert earbuds. When console is fully started grab the controller with the earbuds and press the guide button. Move guide all the way to the left. 
+Sit down in my chair and grab the controller with earbuds.Press and hold guide button to turn on Xbox One. Insert earbuds and turn on t.v. Press the guide button.Move guide all the way to the left. Hit sign in and select my account. Done.
+
+enter my room
+sit down in chair 
+grab controller with earbuds
+press and hold guide button on the controler
+insert earbuds 
+turn on t.v.
+press guide button
+move guide all the way to the left 
+hit sign in
+select my account 
+done
+
+
+
+
